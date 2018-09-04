@@ -3,7 +3,7 @@
 **Example:**  
 * https://arblalock-fcc-issue-tracker.glitch.me/
 
-**Description:** A mertic/imperial unit converter.
+**Description:** An issue tracker where users can assign, track, close, and delete issues.
 * Created with Node and Express.  
 * MongoDB database
 * Chai assertion library functional tests
